@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class calculator {
     public static void main(String[] args) {
-        // 1. Ввести 2 числа89 с клавиатуры, затем один из символов ‘+’, ‘-’, ‘*’ или ‘/’
+        // 1. Ввести 2 числа с клавиатуры, затем один из символов ‘+’, ‘-’, ‘*’ или ‘/’
         Scanner in = new Scanner(System.in);
 
         System.out.println("Введите два числа: ");
